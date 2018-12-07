@@ -1,0 +1,15 @@
+{
+  "name": "max-node-tts",
+  "version": "1.0.0",
+  "description": "max script for cross-platform tts with node",
+  "main": "ttsTest.js",
+  "dependencies": {
+    "simpletts": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
